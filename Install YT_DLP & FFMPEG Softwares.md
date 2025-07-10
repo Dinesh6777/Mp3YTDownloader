@@ -1,10 +1,5 @@
 
-# Mp3YTDownloader
-
-A lightweight Windows-only batch toolkit that  
-1. Automates installing yt-dlp and FFmpeg into a local tools folder and adds them to your PATH  
-2. Reads YouTube URLs from `input.txt`, strips off playlists/indexes, rebuilds a clean watch URL, downloads MP3s named `<Title> [<ID>].mp3` into **My mp3 music**, and skips files already present  
-
+This article is to install YT_DLP and FFMPEG softwares on your PC.
 ---
 
 ## Prerequisites
